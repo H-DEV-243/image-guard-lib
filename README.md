@@ -10,9 +10,9 @@
 
 ---
 
-## 🏢 À propos de H Studio
+## 🏢 À propos de H Electronics
 
-**H** est un studio d'ingénierie logicielle basé à **Kinshasa, République Démocratique du Congo**, spécialisé dans :
+**H Electronics** est un studio de développement souverain basé à Kinshasa (RDC).
 
 - 🖥️ **Développement SaaS & Applications Web** — Plateformes cloud évolutives et solutions métiers sur mesure
 - 📱 **Applications Mobiles** — Natives iOS/Android avec expérience hors-ligne
